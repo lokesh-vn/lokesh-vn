@@ -78,10 +78,7 @@
 
 ### Reach me
 
-<!-- TODO: fill these in and delete this comment -->
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/lokeshvn/)
-- 🌐 Portfolio
 - ✉️ [Email](mailto:lokeshvn1593@gmail.com)
 
 <p align="center"><sub>Based in Bengaluru · Open to interesting problems</sub></p>
