@@ -80,7 +80,7 @@
 
 <!-- TODO: fill these in and delete this comment -->
 
-- 💼 LinkedIn — [Linkdin](https://www.linkedin.com/in/lokeshvn/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lokeshvn/)
 - 🌐 Portfolio — `<add once deployed>`
 - ✉️ Email — `<add the address you want public>`
 
