@@ -82,6 +82,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lokeshvn/)
 - 🌐 Portfolio
-- ✉️ [Email](lokeshvn1593@gmail.com)
+- ✉️ [Email](mailto:lokeshvn1593@gmail.com)
 
 <p align="center"><sub>Based in Bengaluru · Open to interesting problems</sub></p>
