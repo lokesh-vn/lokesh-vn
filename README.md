@@ -81,7 +81,7 @@
 <!-- TODO: fill these in and delete this comment -->
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lokeshvn/)
-- 🌐 Portfolio — `<add once deployed>`
-- ✉️ Email — `<add the address you want public>`
+- 🌐 Portfolio
+- ✉️ [Email](lokeshvn1593@gmail.com)
 
 <p align="center"><sub>Based in Bengaluru · Open to interesting problems</sub></p>
